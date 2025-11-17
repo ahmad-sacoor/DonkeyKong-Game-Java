@@ -41,3 +41,35 @@ This project taught me how to structure a mid-sized Java application:
 
 ## 📁 Project Structure
 
+src/
+├── objects/ # Core entities in the game (player, enemies, obstacles, items)
+├── pt.iscte.poo.game/ # Main game logic, game loop, state transitions
+├── pt.iscte.poo.gui/ # GUI components and rendering
+├── pt.iscte.poo.observer/ # Observer pattern implementation (events, notifications)
+└── pt.iscte.poo.utils/ # Helper utilities and shared classes
+
+images/ # Sprites and assets used in the game
+rooms/ # Room configuration files
+
+
+---
+
+## 🚀 Future Improvements
+- Add a **runnable JAR** for easy playing  
+- Add screenshots and gameplay GIFs  
+- Upload UML diagrams and a small architecture explanation  
+
+---
+
+## 🛠 Built With
+- **Java 8**
+- **Eclipse**
+- Custom-built GUI and rendering system  
+- Object-Oriented design principles
+
+---
+
+Feel free to explore the code! Runnable version will be added soon.
+
+
+
