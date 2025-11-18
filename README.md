@@ -42,14 +42,15 @@ This project taught me how to structure a mid-sized Java application:
 ## 📁 Project Structure
 
 src/
-├── objects/ # Core entities in the game (player, enemies, obstacles, items)
-├── pt.iscte.poo.game/ # Main game logic, game loop, state transitions
-├── pt.iscte.poo.gui/ # GUI components and rendering
-├── pt.iscte.poo.observer/ # Observer pattern implementation (events, notifications)
-└── pt.iscte.poo.utils/ # Helper utilities and shared classes
+ ├── objects/               # Core entities in the game (player, enemies, obstacles, items)
+ ├── pt.iscte.poo.game/     # Main game logic, game loop, state transitions
+ ├── pt.iscte.poo.gui/      # GUI components and rendering
+ ├── pt.iscte.poo.observer/ # Observer pattern implementation (events, notifications)
+ └── pt.iscte.poo.utils/    # Helper utilities and shared classes
 
-images/ # Sprites and assets used in the game
-rooms/ # Room configuration files
+images/                     # Sprites and assets used in the game
+rooms/                      # Room configuration files
+
 
 
 ---
