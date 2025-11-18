@@ -55,11 +55,4 @@ rooms/                      # Room configuration files
 
 ---
 
-## Built With
-- Java 8  
-- Eclipse  
-- Custom-built GUI and rendering components  
-
----
-
 Feel free to explore the code. A runnable version will be added soon.
