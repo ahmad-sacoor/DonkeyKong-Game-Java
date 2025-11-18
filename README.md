@@ -55,13 +55,6 @@ rooms/                      # Room configuration files
 
 ---
 
-## Future Improvements
-- Add a runnable JAR for easier execution  
-- Include screenshots and gameplay recordings  
-- Add UML diagrams and a brief architectural overview  
-
----
-
 ## Built With
 - Java 8  
 - Eclipse  
