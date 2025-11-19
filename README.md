@@ -1,6 +1,6 @@
 # Donkey Kong-Inspired 2D Java Game
 
-This project is a Donkey Kong–inspired 2D platformer developed as part of my Object-Oriented Programming coursework at ISCTE.  
+This project is a Donkey Kong inspired 2D platformer developed as part of my Object-Oriented Programming coursework at ISCTE.  
 It was built entirely in Java, using a modular architecture, game loop logic, and GUI components to simulate enemy movement, collisions, and player progression through multiple rooms.
 
 ---
