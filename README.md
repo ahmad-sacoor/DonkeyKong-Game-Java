@@ -49,7 +49,7 @@ src/
  ├── pt.iscte.poo.observer/ # Observer pattern implementation (events, notifications)
  └── pt.iscte.poo.utils/    # Helper utilities and shared classes
 
-images/                     # Sprites and assets used in the game
+images/                     # Assets used in the game
 rooms/                      # Room configuration files
 ```
 
